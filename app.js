@@ -6,5 +6,10 @@ function fTwo()
 {    
         return "I am Function Number Two"
 }
-console.log(fOne())
+function fThree()
+{
+        return "I am Function Number Three"
+}
+onsole.log(fOne())
 console.log(fTwo())
+console.log(fThree())
