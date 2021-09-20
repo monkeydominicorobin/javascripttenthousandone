@@ -1,0 +1,2 @@
+# javascripttenthousandone
+My JavaScript Journey
