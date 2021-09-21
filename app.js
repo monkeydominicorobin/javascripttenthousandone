@@ -10,6 +10,11 @@ function fThree()
 {
         return "I am Function Number Three"
 }
+function fFour()
+{
+        return "I am Function Number Four"
+}
 console.log(fOne())
 console.log(fTwo())
 console.log(fThree())
+console.log(fFour())
