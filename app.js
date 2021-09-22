@@ -14,7 +14,11 @@ function fFour()
 {
         return "I am Function Number Four"
 }
+function fFive()
+{
+	return "I am Function Number Five"}
 console.log(fOne())
 console.log(fTwo())
 console.log(fThree())
 console.log(fFour())
+console.log(fFive())
