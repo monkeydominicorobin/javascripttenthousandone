@@ -57,6 +57,14 @@ function fFifteen()
 {
 	return "I am Function Number Fifteen"
 }
+function fSixteen()
+{
+	return "I am Function Number Sixteen"
+}
+function fSeventeen()
+{
+	return "I am Function Number Seventeen"
+}
 console.log(fOne())
 console.log(fTwo())
 console.log(fThree())
@@ -72,3 +80,5 @@ console.log(fTwelve())
 console.log(fThirteen())
 console.log(fFourteen())
 console.log(fFifteen())
+console.log(fSixteen())
+console.log(fSeventeen())
