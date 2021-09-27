@@ -16,7 +16,8 @@ function fFour()
 }
 function fFive()
 {
-	return "I am Function Number Five"}
+	return "I am Function Number Five"
+}
 function fSix()
 {
 	return "I am Function Number Six"
@@ -89,6 +90,114 @@ function fTwentyThree()
 {
 	return "I am Function Number Twenty Three"
 }
+function fTwentyFour()
+{    
+        return "I am Function Number Twenty Four"
+}
+function fTwentyFive()
+{    
+        return "I am Function Number Twenty Five"
+}
+function fTwentySix()
+{
+        return "I am Function Number Twenty Six"
+}
+function fTwentySeven()
+{
+        return "I am Function Number Twenty Seven"
+}
+function fTwentyEight()
+{
+	return "I am Function Number Twenty Eight"
+}
+function fTwentyNine()
+{
+	return "I am Function Number Twenty Nine"
+}
+function fThirty()
+{    
+        return "I am Function Number Thirty"
+}
+function fThirtyOne()
+{    
+        return "I am Function Number Thirty One"
+}
+function fThirtyTwo()
+{
+        return "I am Function Number Thirty Two"
+}
+function fThirtyThree()
+{
+        return "I am Function Number Thirty Three"
+}
+function fThirtyFour()
+{
+	return "I am Function Number Thirty Four"
+}
+function fThirtyFive()
+{
+	return "I am Function Number Thirty Five"
+}
+function fThirtySix()
+{
+	return "I am Function Number Thirty Six"
+}
+function fThirtySeven()
+{
+	return "I am Function Number Thirty Seven"
+}
+function fThirtyEight()
+{
+	return "I am Function Number Thirty Eight"
+}
+function fThirtyNine()
+{
+	return "I am Function Number Thirty Nine"
+}
+function fForty()
+{
+	return "I am Function Number Forty"
+}
+function fFortyOne()
+{
+	return "I am Function Number Forty One"
+}
+function fFortyTwo()
+{
+	return "I am Function Number Forty Two"
+}
+function fFortyThree()
+{
+	return "I am Function Number Forty Three"
+}
+function fFortyFour()
+{
+	return "I am Function Number Forty Four"
+}
+function fFortyFive()
+{
+	return "I am Function Number Forty Five"
+}
+function fFortySix()
+{
+	return "I am Function Number Forty Six"
+}
+function fFortySeven()
+{
+	return "I am Function Number Forty Seven"
+}
+function fFortyEight()
+{
+	return "I am Function Number Forty Eight"
+}
+function fFortyNine()
+{
+	return "I am Function Number Forty Nine"
+}
+function fFifty()
+{
+	return "I am Function Number Fifty"
+}
 console.log(fOne())
 console.log(fTwo())
 console.log(fThree())
@@ -112,3 +221,31 @@ console.log(fTwenty())
 console.log(fTwentyOne())
 console.log(fTwentyTwo())
 console.log(fTwentyThree())
+console.log(fTwentyFour())
+console.log(fTwentyFive())
+console.log(fTwentySix())
+console.log(fTwentySeven())
+console.log(fTwentyEight())
+console.log(fTwentyNine())
+console.log(fThirty())
+console.log(fThirtyOne())
+console.log(fThirtyTwo())
+console.log(fThirtyThree())
+console.log(fThirtyFour())
+console.log(fThirtyFive())
+console.log(fThirtySix())
+console.log(fThirtySeven())
+console.log(fThirtyEight())
+console.log(fThirtyNine())
+console.log(fForty())
+console.log(fFortyOne())
+console.log(fFortyTwo())
+console.log(fFortyThree())
+console.log(fFortyFour())
+console.log(fFortyFive())
+console.log(fFortySix())
+console.log(fFortySeven())
+console.log(fFortyEight())
+console.log(fFortyNine())
+console.log(fFifty())
+
