@@ -398,6 +398,106 @@ function fOneHundred()
 {
 	return "I am Function Number One Hundred"
 }
+function fOneHundredOne()
+{    
+        return "I am Function Number OneHundred One"
+}
+function fOneHundredTwo()
+{    
+        return "I am Function Number One Hundred Two"
+}
+function fOneHundredThree()
+{
+        return "I am Function Number One Hundred Three"
+}
+function fOneHundredFour()
+{
+        return "I am Function Number One Hundred Four"
+}
+function fOneHundredFive()
+{
+	return "I am Function Number One Hundred Five"
+}
+function fOneHundredSix()
+{
+	return "I am Function Number One Hundred Six"
+}
+function fOneHundredSeven()
+{    
+        return "I am Function Number One Hundred Seven"
+}
+function fOneHundredEight()
+{    
+        return "I am Function Number One Hundred Eight"
+}
+function fOneHundredNine()
+{
+        return "I am Function Number One Hundred Nine"
+}
+function fOneHundredTen()
+{
+        return "I am Function Number One Hundred Ten"
+}
+function fOneHundredEleven()
+{
+	return "I am Function Number One Hundred Eleven"
+}
+function fOneHundredTwelve()
+{
+	return "I am Function Number One Hundred Twelve"
+}
+function fOneHundredThirteen()
+{
+	return "I am Function Number One Hundred Thirteen"
+}
+function fOneHundredFourteen()
+{
+	return "I am Function Number One Hundred Fourteen"
+}
+function fOneHundredFifteen()
+{
+	return "I am Function Number One Hundred Fifteen"
+}
+function fOneHundredSixteen()
+{
+	return "I am Function Number One Hundred Sixteen"
+}
+function fOneHundredSeventeen()
+{
+	return "I am Function Number One Hundred Seventeen"
+}
+function fOneHundredEighteen()
+{
+	return "I am Function Number One Hundred Eighteen"
+}
+function fOneHundredNineteen()
+{
+	return "I am Function Number One Hundred Nineteen"
+}
+function fOneHundredTwenty()
+{
+	return "I am Function Number One Hundred Twenty"
+}
+function fOneHundredTwentyOne()
+{
+	return "I am Function Number One Hundred Twenty One"
+}
+function fOneHundredTwentyTwo()
+{
+	return "I am Function Number One Hundred Twenty Two"
+}
+function fOneHundredTwentyThree()
+{
+	return "I am Function Number One Hundred Twenty Three"
+}
+function fOneHundredTwentyFour()
+{    
+        return "I am Function Number One Hundred Twenty Four"
+}
+function fOneHundredTwentyFive()
+{    
+        return "I am Function Number One Hundred Twenty Five"
+}
 console.log(fOne())
 console.log(fTwo())
 console.log(fThree())
@@ -498,5 +598,31 @@ console.log(fNinetySeven())
 console.log(fNinetyEight())
 console.log(fNinetyNine())
 console.log(fOneHundred())
+console.log(fOneHundredOne())
+console.log(fOneHundredTwo())
+console.log(fOneHundredThree())
+console.log(fOneHundredFour())
+console.log(fOneHundredFive())
+console.log(fOneHundredSix())
+console.log(fOneHundredSeven())
+console.log(fOneHundredEight())
+console.log(fOneHundredNine())
+console.log(fOneHundredTen())
+console.log(fOneHundredEleven())
+console.log(fOneHundredTwelve())
+console.log(fOneHundredThirteen())
+console.log(fOneHundredFourteen())
+console.log(fOneHundredFifteen())
+console.log(fOneHundredSixteen())
+console.log(fOneHundredSeventeen())
+console.log(fOneHundredEighteen())
+console.log(fOneHundredNineteen())
+console.log(fOneHundredTwenty())
+console.log(fOneHundredTwentyOne())
+console.log(fOneHundredTwentyTwo())
+console.log(fOneHundredTwentyThree())
+console.log(fOneHundredTwentyFour())
+console.log(fOneHundredTwentyFive())
+
 
 
