@@ -498,6 +498,506 @@ function fOneHundredTwentyFive()
 {    
         return "I am Function Number One Hundred Twenty Five"
 }
+function fOneHundredTwentySix()
+{    
+        return "I am Function Number One Hundred Twenty Six"
+}
+function fOneHundredTwentySeven()
+{    
+        return "I am Function Number One Hundred Twenty Seven"
+}
+function fOneHundredTwentyEight()
+{
+        return "I am Function Number One Hundred Twenty Eight"
+}
+function fOneHundredTwentyNine()
+{
+        return "I am Function Number One Hundred Twenty Nine"
+}
+function fOneHundredThirty()
+{
+	return "I am Function Number One Hundred Thirty"
+}
+function fOneHundredThirtyOne()
+{
+	return "I am Function Number One Hundred Thirty One"
+}
+function fOneHundredThirtyTwo()
+{    
+        return "I am Function Number One Hundred Thirty Two"
+}
+function fOneHundredThirtyThree()
+{    
+        return "I am Function Number One Hundred Thirty Three"
+}
+function fOneHundredThirtyFour()
+{
+        return "I am Function Number One Hundred Thirty Four"
+}
+function fOneHundredThirtyFive()
+{
+        return "I am Function Number One Hundred Thirty Five"
+}
+function fOneHundredThirtySix()
+{
+	return "I am Function Number One Hundred Thirty Six"
+}
+function fOneHundredThirtySeven()
+{
+	return "I am Function Number One Hundred Thirty Seven"
+}
+function fOneHundredThirtyEight()
+{
+	return "I am Function Number One Hundred Thirty Nine"
+}
+function fOneHundredThirtyNine()
+{
+	return "I am Function Number One Hundred Thirty Nine"
+}
+function fOneHundredForty()
+{
+	return "I am Function Number One Hundred Forty"
+}
+function fOneHundredFortyOne()
+{
+	return "I am Function Number One Hundred Forty One"
+}
+function fOneHundredFortyTwo()
+{
+	return "I am Function Number One Hundred Forty Two"
+}
+function fOneHundredFortyThree()
+{
+	return "I am Function Number One Hundred Forty Three"
+}
+function fOneHundredFortyFour()
+{
+	return "I am Function Number One Hundred Forty Four"
+}
+function fOneHundredFortyFive()
+{
+	return "I am Function Number One Hundred Forty Five"
+}
+function fOneHundredFortySix()
+{
+	return "I am Function Number One Hundred Forty Six"
+}
+function fOneHundredFortySeven()
+{
+	return "I am Function Number One Hundred Forty Seven"
+}
+function fOneHundredFortyEight()
+{
+	return "I am Function Number One Hundred Forty Eight"
+}
+function fOneHundredFortyNine()
+{    
+        return "I am Function Number One Hundred Forty Nine"
+}
+function fOneHundredFifty()
+{    
+        return "I am Function Number One Hundred Fifty"
+}
+function fOneHundredFiftyOne()
+{
+        return "I am Function Number One Hundred Fifty One"
+}
+function fOneHundredFiftyTwo()
+{
+        return "I am Function Number One Hundred Fifty Two"
+}
+function fOneHundredFiftyThree()
+{
+	return "I am Function Number One Hundred Fifty Three"
+}
+function fOneHundredFiftyFour()
+{
+	return "I am Function Number One Hundred Fifty Four"
+}
+function fOneHundredFiftyFive()
+{    
+        return "I am Function Number One Hundred Fifty Five"
+}
+function fOneHundredFiftySix()
+{    
+        return "I am Function Number One Hundred Fifty Six"
+}
+function fOneHundredFiftySeven()
+{
+        return "I am Function Number One Hundred Fifty Seven"
+}
+function fOneHundredFiftyEight()
+{
+        return "I am Function Number One Hundred Fifty Eight"
+}
+function fOneHundredFiftyNine()
+{
+	return "I am Function Number One Hundred Fifty Nine"
+}
+function fOneHundredSixty()
+{
+	return "I am Function Number One Hundred Sixty"
+}
+function fOneHundredSixtyOne()
+{
+	return "I am Function Number One Hundred Sixty One"
+}
+function fOneHundredSixtyTwo()
+{
+	return "I am Function Number One Hundred Sixty Two"
+}
+function fOneHundredSixtyThree()
+{
+	return "I am Function Number One Hundred Sixty Three"
+}
+function fOneHundredSixtyFour()
+{
+	return "I am Function Number One Hundred Sixty Four"
+}
+function fOneHundredSixtyFive()
+{
+	return "I am Function Number One Hundred Sixty Five"
+}
+function fOneHundredSixtySix()
+{
+	return "I am Function Number One Hundred Sixty Six"
+}
+function fOneHundredSixtySeven()
+{
+	return "I am Function Number One Hundred Sixty Seven"
+}
+function fOneHundredSixtyEight()
+{
+	return "I am Function Number One Hundred Sixty Eight"
+}
+function fOneHundredSixtyNine()
+{
+	return "I am Function Number One Hundred Sixty Nine"
+}
+function fOneHundredSeventy()
+{
+	return "I am Function Number One Hundred Seventy"
+}
+function fOneHundredSeventyOne()
+{
+	return "I am Function Number One Hundred Seventy One"
+}
+function fOneHundredSeventyTwo()
+{
+	return "I am Function Number One Hundred Seventy Two"
+}
+function fOneHundredSeventyThree()
+{
+	return "I am Function Number One Hundred Seventy Three"
+}
+function fOneHundredSeventyFour()
+{
+	return "I am Function Number One Hundred Seventy Four"
+}
+function fOneHundredSeventyFive()
+{
+	return "I am Function Number One Hundred Seventy Five"
+}
+function fOneHundredSeventySix()
+{    
+        return "I am Function Number One Hundred Seventy Six"
+}
+function fOneHundredSeventySeven()
+{    
+        return "I am Function Number One Hundred Seventy Seven"
+}
+function fOneHundredSeventyEight()
+{
+        return "I am Function Number One Hundred Seventy Eight"
+}
+function fOneHundredSeventyNine()
+{
+        return "I am Function Number One Hundred Seventy Nine"
+}
+function fOneHundredEighty()
+{
+	return "I am Function Number One Hundred Eighty"
+}
+function fOneHundredEightyOne()
+{
+	return "I am Function Number One Hundred Eighty One"
+}
+function fOneHundredEightyTwo()
+{    
+        return "I am Function Number One Hundred Eighty Two"
+}
+function fOneHundredEightyThree()
+{    
+        return "I am Function Number One Hundred Eighty Three"
+}
+function fOneHundredEightyFour()
+{
+        return "I am Function Number One Hundred Eighty Four"
+}
+function fOneHundredEightyFive()
+{
+        return "I am Function Number One Hundred Eighty Five"
+}
+function fOneHundredEightySix()
+{
+	return "I am Function Number One Hundred Eighty Six"
+}
+function fOneHundredEightySeven()
+{
+	return "I am Function Number One Hundred Eighty Seven"
+}
+function fOneHundredEightyEight()
+{
+	return "I am Function Number One Hundred Eighty Eight"
+}
+function fOneHundredEightyNine()
+{
+	return "I am Function Number One Hundred Eighty Nine"
+}
+function fOneHundredNinety()
+{
+	return "I am Function Number One Hundred Ninety"
+}
+function fOneHundredNinetyOne()
+{
+	return "I am Function Number One Hundred Ninety One"
+}
+function fOneHundredNinetyTwo()
+{
+	return "I am Function Number One Hundred Ninety Two"
+}
+function fOneHundredNinetyThree()
+{
+	return "I am Function Number One Hundred Ninety Three"
+}
+function fOneHundredNinetyFour()
+{
+	return "I am Function Number One Hundred Ninety Four"
+}
+function fOneHundredNinetyFive()
+{
+	return "I am Function Number One Hundred Ninety Five"
+}
+function fOneHundredNinetySix()
+{
+	return "I am Function Number One Hundred Ninety Six"
+}
+function fOneHundredNinetySeven()
+{
+	return "I am Function Number One Hundred Ninety Seven"
+}
+function fOneHundredNinetyEight()
+{
+	return "I am Function Number One Hundred Ninety Eight"
+}
+function fOneHundredNinetyNine()
+{    
+        return "I am Function Number One Hundred Ninety Nine"
+}
+function fTwoHundred()
+{    
+        return "I am Function Number Two Hundred"
+}
+function fTwoHundredOne()
+{
+        return "I am Function Number Two Hundred One"
+}
+function fTwoHundredTwo()
+{
+        return "I am Function Number Two Hundred Two"
+}
+function fTwoHundredThree()
+{
+	return "I am Function Number Two Hundred Three"
+}
+function fTwoHundredFour()
+{
+	return "I am Function Number Two Hundred Four"
+}
+function fTwoHundredFive()
+{    
+        return "I am Function Number Two Hundred Five"
+}
+function fTwoHundredSix()
+{    
+        return "I am Function Number Two Hundred Six"
+}
+function fTwoHundredSeven()
+{
+        return "I am Function Number Two Hundred Seven"
+}
+function fTwoHundredEight()
+{
+        return "I am Function Number Two Hundred Eight"
+}
+function fTwoHundredNine()
+{
+	return "I am Function Number Two Hundred Nine"
+}
+function fTwoHundredTen()
+{
+	return "I am Function Number Two Hundred Ten"
+}
+function fTwoHundredEleven()
+{
+	return "I am Function Number Two Hundred Eleven"
+}
+function fTwoHundredTwelve()
+{
+	return "I am Function Number Two Hundred Twelve"
+}
+function fTwoHundredThirteen()
+{
+	return "I am Function Number Two Hundred Thirteen"
+}
+function fTwoHundredFourteen()
+{
+	return "I am Function Number Two Hundred Fourteen"
+}
+function fTwoHundredFifteen()
+{
+	return "I am Function Number Two Hundred Fifteen"
+}
+function fTwoHundredSixteen()
+{
+	return "I am Function Number Two Hundred Sixteen"
+}
+function fTwoHundredSeventeen()
+{
+	return "I am Function Number Two Hundred Seventeen"
+}
+function fTwoHundredEighteen()
+{
+	return "I am Function Number Two Hundred Eighteen"
+}
+function fTwoHundredNineteen()
+{
+	return "I am Function Number Two Hundred Nineteen"
+}
+function fTwoHundredTwenty()
+{
+	return "I am Function Number Two Hundred Twenty"
+}
+function fTwoHundredTwentyOne()
+{
+	return "I am Function Number Two Hundred Twenty One"
+}
+function fTwoHundredTwentyTwo()
+{
+	return "I am Function Number Two Hundred Twenty Two"
+}
+function fTwoHundredTwentyThree()
+{
+	return "I am Function Number Two Hundred Twenty Three"
+}
+function fTwoHundredTwentyFour()
+{
+	return "I am Function Number Two Hundred Twenty Four"
+}
+function fTwoHundredTwentyFive()
+{
+	return "I am Function Number Two Hundred Twenty Five"
+}
+function fTwoHundredTwentySix()
+{    
+        return "I am Function Number Two Hundred Twenty Six"
+}
+function fTwoHundredTwentySeven()
+{    
+        return "I am Function Number Two Hundred Twenty Seven"
+}
+function fTwoHundredTwentyEight()
+{
+        return "I am Function Number Two Hundred Twenty Eight"
+}
+function fTwoHundredTwentyNine()
+{
+        return "I am Function Number Two Hundred Twenty Nine"
+}
+function fTwoHundredThirty()
+{
+	return "I am Function Number Two Hundred Thirty"
+}
+function fTwoHundredThirtyOne()
+{
+	return "I am Function Number Two Hundred Thirty One"
+}
+function fTwoHundredThirtyTwo()
+{    
+        return "I am Function Number Two Hundred Thirty Two"
+}
+function fTwoHundredThirtyThree()
+{    
+        return "I am Function Number Two Hundred Thirty Three"
+}
+function fTwoHundredThirtyFour()
+{
+        return "I am Function Number Two Hundred Thirty Four"
+}
+function fTwoHundredThirtyFive()
+{
+        return "I am Function Number Two Hundred Thirty Five"
+}
+function fTwoHundredThirtySix()
+{
+	return "I am Function Number Two Hundred Thirty Six"
+}
+function fTwoHundredThirtySeven()
+{
+	return "I am Function Number Two Hundred Thirty Seven"
+}
+function fTwoHundredThirtyEight()
+{
+	return "I am Function Number Two Hundred Thirty Eight"
+}
+function fTwoHundredThirtyNine()
+{
+	return "I am Function Number Two Hundred Thirty Nine"
+}
+function fTwoHundredForty()
+{
+	return "I am Function Number Two Hundred Forty"
+}
+function fTwoHundredFortyOne()
+{
+	return "I am Function Number Two Hundred Forty One"
+}
+function fTwoHundredFortyTwo()
+{
+	return "I am Function Number Two Hundred Forty Two"
+}
+function fTwoHundredFortyThree()
+{
+	return "I am Function Number Two Hundred Forty Three"
+}
+function fTwoHundredFortyFour()
+{
+	return "I am Function Number Two Hundred Forty Four"
+}
+function fTwoHundredFortyFive()
+{
+	return "I am Function Number Two Hundred Forty Five"
+}
+function fTwoHundredFortySix()
+{
+	return "I am Function Number Two Hundred Forty Six"
+}
+function fTwoHundredFortySeven()
+{
+	return "I am Function Number Two Hundred Forty Seven"
+}
+function fTwoHundredFortyEight()
+{
+	return "I am Function Number Two Hundred Forty Eight"
+}
+function fTwoHundredFortyNine()
+{    
+        return "I am Function Number Two Hundred Forty Nine"
+}
+function fTwoHundredFifty()
+{    
+        return "I am Function Number Two Hundred Fifty"
+}
 console.log(fOne())
 console.log(fTwo())
 console.log(fThree())
@@ -623,6 +1123,132 @@ console.log(fOneHundredTwentyTwo())
 console.log(fOneHundredTwentyThree())
 console.log(fOneHundredTwentyFour())
 console.log(fOneHundredTwentyFive())
+console.log(fOneHundredTwentySix())
+console.log(fOneHundredTwentySeven())
+console.log(fOneHundredTwentyEight())
+console.log(fOneHundredTwentyNine())
+console.log(fOneHundredThirty())
+console.log(fOneHundredThirtyOne())
+console.log(fOneHundredThirtyTwo())
+console.log(fOneHundredThirtyThree())
+console.log(fOneHundredThirtyFour())
+console.log(fOneHundredThirtyFive())
+console.log(fOneHundredThirtySix())
+console.log(fOneHundredThirtySeven())
+console.log(fOneHundredThirtyEight())
+console.log(fOneHundredThirtyNine())
+console.log(fOneHundredForty())
+console.log(fOneHundredFortyOne())
+console.log(fOneHundredFortyTwo())
+console.log(fOneHundredFortyThree())
+console.log(fOneHundredFortyFour())
+console.log(fOneHundredFortyFive())
+console.log(fOneHundredFortySix())
+console.log(fOneHundredFortySeven())
+console.log(fOneHundredFortyEight())
+console.log(fOneHundredFortyNine())
+console.log(fOneHundredFifty())
+console.log(fOneHundredFiftyOne())
+console.log(fOneHundredFiftyTwo())
+console.log(fOneHundredFiftyThree())
+console.log(fOneHundredFiftyFour())
+console.log(fOneHundredFiftyFive())
+console.log(fOneHundredFiftySix())
+console.log(fOneHundredFiftySeven())
+console.log(fOneHundredFiftyEight())
+console.log(fOneHundredFiftyNine())
+console.log(fOneHundredSixty())
+console.log(fOneHundredSixtyOne())
+console.log(fOneHundredSixtyTwo())
+console.log(fOneHundredSixtyThree())
+console.log(fOneHundredSixtyFour())
+console.log(fOneHundredSixtyFive())
+console.log(fOneHundredSixtySix())
+console.log(fOneHundredSixtySeven())
+console.log(fOneHundredSixtyEight())
+console.log(fOneHundredSixtyNine())
+console.log(fOneHundredSeventy())
+console.log(fOneHundredSeventyOne())
+console.log(fOneHundredSeventyTwo())
+console.log(fOneHundredSeventyThree())
+console.log(fOneHundredSeventyFour())
+console.log(fOneHundredSeventyFive())
+console.log(fOneHundredSeventySix())
+console.log(fOneHundredSeventySeven())
+console.log(fOneHundredSeventyEight())
+console.log(fOneHundredSeventyNine())
+console.log(fOneHundredEighty())
+console.log(fOneHundredEightyOne())
+console.log(fOneHundredEightyTwo())
+console.log(fOneHundredEightyThree())
+console.log(fOneHundredEightyFour())
+console.log(fOneHundredEightyFive())
+console.log(fOneHundredEightySix())
+console.log(fOneHundredEightySeven())
+console.log(fOneHundredEightyEight())
+console.log(fOneHundredEightyNine())
+console.log(fOneHundredNinety())
+console.log(fOneHundredNinetyOne())
+console.log(fOneHundredNinetyTwo())
+console.log(fOneHundredNinetyThree())
+console.log(fOneHundredNinetyFour())
+console.log(fOneHundredNinetyFive())
+console.log(fOneHundredNinetySix())
+console.log(fOneHundredNinetySeven())
+console.log(fOneHundredNinetyEight())
+console.log(fOneHundredNinetyNine())
+console.log(fTwoHundred())
+console.log(fTwoHundredOne())
+console.log(fTwoHundredTwo())
+console.log(fTwoHundredThree())
+console.log(fTwoHundredFour())
+console.log(fTwoHundredFive())
+console.log(fTwoHundredSix())
+console.log(fTwoHundredSeven())
+console.log(fTwoHundredEight())
+console.log(fTwoHundredNine())
+console.log(fTwoHundredTen())
+console.log(fTwoHundredEleven())
+console.log(fTwoHundredTwelve())
+console.log(fTwoHundredThirteen())
+console.log(fTwoHundredFourteen())
+console.log(fTwoHundredFifteen())
+console.log(fTwoHundredSixteen())
+console.log(fTwoHundredSeventeen())
+console.log(fTwoHundredEighteen())
+console.log(fTwoHundredNineteen())
+console.log(fTwoHundredTwenty())
+console.log(fTwoHundredTwentyOne())
+console.log(fTwoHundredTwentyTwo())
+console.log(fTwoHundredTwentyThree())
+console.log(fTwoHundredTwentyFour())
+console.log(fTwoHundredTwentyFive())
+console.log(fTwoHundredTwentySix())
+console.log(fTwoHundredTwentySeven())
+console.log(fTwoHundredTwentyEight())
+console.log(fTwoHundredTwentyNine())
+console.log(fTwoHundredThirty())
+console.log(fTwoHundredThirtyOne())
+console.log(fTwoHundredThirtyTwo())
+console.log(fTwoHundredThirtyThree())
+console.log(fTwoHundredThirtyFour())
+console.log(fTwoHundredThirtyFive())
+console.log(fTwoHundredThirtySix())
+console.log(fTwoHundredThirtySeven())
+console.log(fTwoHundredThirtyEight())
+console.log(fTwoHundredThirtyNine())
+console.log(fTwoHundredForty())
+console.log(fTwoHundredFortyOne())
+console.log(fTwoHundredFortyTwo())
+console.log(fTwoHundredFortyThree())
+console.log(fTwoHundredFortyFour())
+console.log(fTwoHundredFortyFive())
+console.log(fTwoHundredFortySix())
+console.log(fTwoHundredFortySeven())
+console.log(fTwoHundredFortyEight())
+console.log(fTwoHundredFortyNine())
+console.log(fTwoHundredFifty())
+
 
 
 
